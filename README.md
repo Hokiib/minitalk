@@ -1,6 +1,6 @@
 # minitalk
 
-Programme de communication sous la forme d'un **client** et un **serveur**
+Programme de communication sous la forme d'un **client** et d'un **serveur**
 
 ### Client
 
